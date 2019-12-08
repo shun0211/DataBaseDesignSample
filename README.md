@@ -30,8 +30,8 @@
 |group_id|integer|null: false, foreign_key: true|
 
 ### Association
-belongs_to :user
-belongs_to :group
+- belongs_to :user
+- belongs_to :group
 
 ### messagesテーブル
 |Column|Type|Options|
@@ -42,5 +42,5 @@ belongs_to :group
 |image|strings| |
 
 ## Association
-belongs_to :user
-belongs_to :group
+- belongs_to :user
+- belongs_to :group
