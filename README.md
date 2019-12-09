@@ -1,5 +1,4 @@
 # DataBaseDesignSample
- 
 
 ## usersテーブル
 
